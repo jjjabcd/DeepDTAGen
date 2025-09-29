@@ -2,6 +2,11 @@
 ## 💡 Description
 This is the implementation of DeepDTAGen: Multitask deep learning framework for Predicting Drug-Target Affinity and Generating Target-Specific Drugs.
 
+
+- Original project: [CSUBioGroup/DeepDTAGen](https://github.com/CSUBioGroup/DeepDTAGen)
+
+- Refactored from: [mathcom/DeepDTAGen](https://github.com/mathcom/DeepDTAGen)
+
 ## 📋 Table of Contents
 1. [💡 Description](#description)  
 2. [🔍 Dataset](#dataset)  
